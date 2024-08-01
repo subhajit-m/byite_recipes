@@ -1,0 +1,434 @@
+<Desserts>
+    <Dessert name="Rosogolla" region="West Bengal">
+        <Ingredients>
+            <Ingredient name="Milk"/>
+            <Ingredient name="Lemon juice or vinegar"/>
+            <Ingredient name="Water"/>
+            <Ingredient name="Sugar"/>
+            <Ingredient name="Cardamom powder" optional="true"/>
+        </Ingredients>
+        <Quantities serves="4">
+            <Quantity ingredient="Milk" amount="1" unit="liter"/>
+            <Quantity ingredient="Lemon juice or vinegar" amount="30" unit="ml"/>
+            <Quantity ingredient="Water" amount="1" unit="liter"/>
+            <Quantity ingredient="Sugar" amount="500" unit="g"/>
+            <Quantity ingredient="Cardamom powder" amount="2" unit="g"/>
+        </Quantities>
+        <Instructions>
+            <Step number="1">Bring milk to a boil, then add lemon juice or vinegar to curdle it.</Step>
+            <Step number="2">Strain the curdled milk through a muslin cloth, rinse with water to remove the sourness, and squeeze out excess water to make chenna.</Step>
+            <Step number="3">Knead the chenna until smooth, then divide it into small balls.</Step>
+            <Step number="4">In a separate pot, boil water and sugar to make syrup.</Step>
+            <Step number="5">Add the chenna balls to the boiling syrup and cook on medium heat for about 15 minutes.</Step>
+            <Step number="6">Let them cool in the syrup before serving.</Step>
+        </Instructions>
+    </Dessert>
+    <Dessert name="Mishti Doi" region="West Bengal">
+        <Ingredients>
+            <Ingredient name="Full-fat milk"/>
+            <Ingredient name="Sugar"/>
+            <Ingredient name="Yogurt"/>
+        </Ingredients>
+        <Quantities serves="4">
+            <Quantity ingredient="Full-fat milk" amount="1" unit="liter"/>
+            <Quantity ingredient="Sugar" amount="200" unit="g"/>
+            <Quantity ingredient="Yogurt" amount="50" unit="g"/>
+        </Quantities>
+        <Instructions>
+            <Step number="1">Boil milk until it reduces to half its volume.</Step>
+            <Step number="2">In a pan, caramelize sugar until golden, then add to the boiling milk and mix well.</Step>
+            <Step number="3">Let the milk cool until lukewarm, then add yogurt and mix.</Step>
+            <Step number="4">Pour into earthen pots and allow to set overnight in a warm place.</Step>
+        </Instructions>
+    </Dessert>
+    <Dessert name="Sandesh" region="West Bengal">
+        <Ingredients>
+            <Ingredient name="Milk"/>
+            <Ingredient name="Lemon juice or vinegar"/>
+            <Ingredient name="Powdered sugar"/>
+            <Ingredient name="Cardamom powder"/>
+            <Ingredient name="Saffron strands" optional="true"/>
+            <Ingredient name="Pistachios or almonds" description="sliced"/>
+        </Ingredients>
+        <Quantities serves="4">
+            <Quantity ingredient="Milk" amount="1" unit="liter"/>
+            <Quantity ingredient="Lemon juice or vinegar" amount="30" unit="ml"/>
+            <Quantity ingredient="Powdered sugar" amount="100" unit="g"/>
+            <Quantity ingredient="Cardamom powder" amount="2" unit="g"/>
+            <Quantity ingredient="Saffron strands" amount="a few"/>
+            <Quantity ingredient="Pistachios or almonds" amount="20" unit="g"/>
+        </Quantities>
+        <Instructions>
+            <Step number="1">Boil milk and curdle with lemon juice or vinegar.</Step>
+            <Step number="2">Strain through a muslin cloth, rinse, and squeeze to get chenna.</Step>
+            <Step number="3">Knead the chenna with sugar and cardamom powder until smooth.</Step>
+            <Step number="4">Cook the mixture in a non-stick pan on low heat for 5-7 minutes.</Step>
+            <Step number="5">Cool the mixture, shape into desired forms, and garnish with nuts.</Step>
+        </Instructions>
+    </Dessert>
+    <Dessert name="Puran Poli" region="Maharashtra">
+        <Ingredients>
+            <Ingredient name="Chana dal (Bengal gram)"/>
+            <Ingredient name="Jaggery"/>
+            <Ingredient name="Cardamom powder"/>
+            <Ingredient name="All-purpose flour"/>
+            <Ingredient name="Ghee"/>
+            <Ingredient name="Turmeric powder"/>
+            <Ingredient name="Salt"/>
+        </Ingredients>
+        <Quantities serves="4">
+            <Quantity ingredient="Chana dal (Bengal gram)" amount="250" unit="g"/>
+            <Quantity ingredient="Jaggery" amount="200" unit="g"/>
+            <Quantity ingredient="Cardamom powder" amount="2" unit="g"/>
+            <Quantity ingredient="All-purpose flour" amount="250" unit="g"/>
+            <Quantity ingredient="Ghee" amount="60" unit="ml"/>
+            <Quantity ingredient="Turmeric powder" amount="a pinch"/>
+            <Quantity ingredient="Salt" amount="a pinch"/>
+        </Quantities>
+        <Instructions>
+            <Step number="1">Cook chana dal until soft, drain and mash it.</Step>
+            <Step number="2">Add jaggery and cardamom powder, cook until thick.</Step>
+            <Step number="3">Mix flour, turmeric, salt, and water to make a soft dough.</Step>
+            <Step number="4">Roll dough, fill with dal mixture, and roll again.</Step>
+            <Step number="5">Cook on a hot griddle with ghee until golden.</Step>
+        </Instructions>
+    </Dessert>
+    <Dessert name="Modak" region="Maharashtra">
+        <Ingredients>
+            <Ingredient name="Rice flour"/>
+            <Ingredient name="Grated coconut"/>
+            <Ingredient name="Jaggery"/>
+            <Ingredient name="Cardamom powder"/>
+            <Ingredient name="Ghee"/>
+            <Ingredient name="Salt"/>
+        </Ingredients>
+        <Quantities serves="4">
+            <Quantity ingredient="Rice flour" amount="250" unit="g"/>
+            <Quantity ingredient="Grated coconut" amount="150" unit="g"/>
+            <Quantity ingredient="Jaggery" amount="100" unit="g"/>
+            <Quantity ingredient="Cardamom powder" amount="2" unit="g"/>
+            <Quantity ingredient="Ghee" amount="30" unit="ml"/>
+            <Quantity ingredient="Salt" amount="a pinch"/>
+        </Quantities>
+        <Instructions>
+            <Step number="1">Heat ghee, add coconut, jaggery, and cardamom powder, cook until thick.</Step>
+            <Step number="2">Boil water with salt and ghee, add rice flour, and mix to form a dough.</Step>
+            <Step number="3">Make small balls, fill with coconut mixture, and shape into modaks.</Step>
+            <Step number="4">Steam the modaks for 10-15 minutes.</Step>
+        </Instructions>
+    </Dessert>
+    <Dessert name="Shrikhand" region="Maharashtra">
+        <Ingredients>
+            <Ingredient name="Yogurt"/>
+            <Ingredient name="Sugar"/>
+            <Ingredient name="Saffron strands"/>
+            <Ingredient name="Cardamom powder"/>
+            <Ingredient name="Almonds and pistachios"/>
+        </Ingredients>
+        <Quantities serves="4">
+            <Quantity ingredient="Yogurt" amount="500" unit="ml"/>
+            <Quantity ingredient="Sugar" amount="100" unit="g"/>
+            <Quantity ingredient="Saffron strands" amount="a pinch"/>
+            <Quantity ingredient="Cardamom powder" amount="2" unit="g"/>
+            <Quantity ingredient="Almonds and pistachios" amount="20" unit="g"/>
+        </Quantities>
+        <Instructions>
+            <Step number="1">Hang yogurt in a muslin cloth to drain whey.</Step>
+            <Step number="2">Mix hung curd with sugar, saffron, and cardamom powder until smooth.</Step>
+            <Step number="3">Chill and garnish with chopped nuts before serving.</Step>
+        </Instructions>
+    </Dessert>
+    <Dessert name="Ghevar" region="Rajasthan">
+        <Ingredients>
+            <Ingredient name="All-purpose flour"/>
+            <Ingredient name="Ghee"/>
+            <Ingredient name="Milk"/>
+            <Ingredient name="Water"/>
+            <Ingredient name="Sugar"/>
+            <Ingredient name="Cardamom powder"/>
+            <Ingredient name="Saffron strands"/>
+            <Ingredient name="Ghee for frying"/>
+        </Ingredients>
+        <Quantities serves="4">
+            <Quantity ingredient="All-purpose flour" amount="250" unit="g"/>
+            <Quantity ingredient="Ghee" amount="60" unit="ml"/>
+            <Quantity ingredient="Milk" amount="200" unit="ml"/>
+            <Quantity ingredient="Water" amount="300" unit="ml"/>
+            <Quantity ingredient="Sugar" amount="300" unit="g"/>
+            <Quantity ingredient="Cardamom powder" amount="2" unit="g"/>
+            <Quantity ingredient="Saffron strands" amount="a few"/>
+            <Quantity ingredient="Ghee for frying" amount="as needed"/>
+        </Quantities>
+        <Instructions>
+            <Step number="1">Mix flour, ghee, milk, and water to form a smooth batter.</Step>
+            <Step number="2">Heat ghee in a deep pan, pour batter in a thin stream to form layers.</Step>
+            <Step number="3">Fry until golden and crisp.</Step>
+            <Step number="4">Prepare sugar syrup with cardamom and saffron, pour over ghevar.</Step>
+        </Instructions>
+    </Dessert>
+    <Dessert name="Moong Dal Halwa" region="Rajasthan">
+        <Ingredients>
+            <Ingredient name="Moong dal"/>
+            <Ingredient name="Ghee"/>
+            <Ingredient name="Sugar"/>
+            <Ingredient name="Milk"/>
+            <Ingredient name="Cardamom powder"/>
+            <Ingredient name="Almonds and cashews"/>
+        </Ingredients>
+        <Quantities serves="4">
+            <Quantity ingredient="Moong dal" amount="200" unit="g"/>
+            <Quantity ingredient="Ghee" amount="150" unit="g"/>
+            <Quantity ingredient="Sugar" amount="200" unit="g"/>
+            <Quantity ingredient="Milk" amount="500" unit="ml"/>
+            <Quantity ingredient="Cardamom powder" amount="2" unit="g"/>
+            <Quantity ingredient="Almonds and cashews" amount="20" unit="g"/>
+        </Quantities>
+        <Instructions>
+            <Step number="1">Soak moong dal for 3-4 hours, grind to a coarse paste.</Step>
+            <Step number="2">Heat ghee, fry dal paste until golden and aromatic.</Step>
+            <Step number="3">Add milk and sugar, cook until thick.</Step>
+            <Step number="4">Add cardamom powder and nuts, serve warm.</Step>
+        </Instructions>
+    </Dessert>
+    <Dessert name="Malpua" region="Rajasthan">
+        <Ingredients>
+            <Ingredient name="All-purpose flour"/>
+            <Ingredient name="Semolina"/>
+            <Ingredient name="Sugar"/>
+            <Ingredient name="Milk"/>
+            <Ingredient name="Fennel seeds"/>
+            <Ingredient name="Cardamom powder"/>
+            <Ingredient name="Ghee for frying"/>
+        </Ingredients>
+        <Quantities serves="4">
+            <Quantity ingredient="All-purpose flour" amount="200" unit="g"/>
+            <Quantity ingredient="Semolina" amount="50" unit="g"/>
+            <Quantity ingredient="Sugar" amount="200" unit="g"/>
+            <Quantity ingredient="Milk" amount="200" unit="ml"/>
+            <Quantity ingredient="Fennel seeds" amount="5" unit="g"/>
+            <Quantity ingredient="Cardamom powder" amount="2" unit="g"/>
+            <Quantity ingredient="Ghee for frying" amount="as needed"/>
+        </Quantities>
+        <Instructions>
+            <Step number="1">Mix flour, semolina, fennel seeds, and milk to form a batter.</Step>
+            <Step number="2">Heat ghee in a pan, pour batter to make small pancakes.</Step>
+            <Step number="3">Fry until golden and crisp.</Step>
+            <Step number="4">Prepare sugar syrup with cardamom, dip malpua, and serve.</Step>
+        </Instructions>
+    </Dessert>
+    <Dessert name="Basundi" region="Gujarat">
+        <Ingredients>
+            <Ingredient name="Milk"/>
+            <Ingredient name="Sugar"/>
+            <Ingredient name="Cardamom powder"/>
+            <Ingredient name="Saffron strands"/>
+            <Ingredient name="Almonds and pistachios"/>
+        </Ingredients>
+        <Quantities serves="4">
+            <Quantity ingredient="Milk" amount="1" unit="liter"/>
+            <Quantity ingredient="Sugar" amount="100" unit="g"/>
+            <Quantity ingredient="Cardamom powder" amount="2" unit="g"/>
+            <Quantity ingredient="Saffron strands" amount="a few"/>
+            <Quantity ingredient="Almonds and pistachios" amount="20" unit="g"/>
+        </Quantities>
+        <Instructions>
+            <Step number="1">Boil milk and simmer until it reduces to half.</Step>
+            <Step number="2">Add sugar, cardamom powder, and saffron, and simmer for another 5-10 minutes.</Step>
+            <Step number="3">Garnish with almonds and pistachios, and serve chilled.</Step>
+        </Instructions>
+    </Dessert>
+    <Dessert name="Mohanthal" region="Gujarat">
+        <Ingredients>
+            <Ingredient name="Gram flour (besan)"/>
+            <Ingredient name="Ghee"/>
+            <Ingredient name="Sugar"/>
+            <Ingredient name="Milk"/>
+            <Ingredient name="Cardamom powder"/>
+            <Ingredient name="Almonds and pistachios"/>
+        </Ingredients>
+        <Quantities serves="4">
+            <Quantity ingredient="Gram flour (besan)" amount="250" unit="g"/>
+            <Quantity ingredient="Ghee" amount="150" unit="g"/>
+            <Quantity ingredient="Sugar" amount="250" unit="g"/>
+            <Quantity ingredient="Milk" amount="100" unit="ml"/>
+            <Quantity ingredient="Cardamom powder" amount="2" unit="g"/>
+            <Quantity ingredient="Almonds and pistachios" amount="20" unit="g"/>
+        </Quantities>
+        <Instructions>
+            <Step number="1">Heat ghee, add besan, and roast until golden and fragrant.</Step>
+            <Step number="2">Add milk and mix well, ensuring no lumps.</Step>
+            <Step number="3">Prepare sugar syrup, add to the besan mixture, and cook until thick.</Step>
+            <Step number="4">Add cardamom powder and nuts, pour into a greased tray, and cool before cutting.</Step>
+        </Instructions>
+    </Dessert>
+    <Dessert name="Shrikhand" region="Gujarat">
+        <Ingredients>
+            <Ingredient name="Yogurt"/>
+            <Ingredient name="Sugar"/>
+            <Ingredient name="Saffron strands"/>
+            <Ingredient name="Cardamom powder"/>
+            <Ingredient name="Almonds and pistachios"/>
+        </Ingredients>
+        <Quantities serves="4">
+            <Quantity ingredient="Yogurt" amount="500" unit="ml"/>
+            <Quantity ingredient="Sugar" amount="100" unit="g"/>
+            <Quantity ingredient="Saffron strands" amount="a pinch"/>
+            <Quantity ingredient="Cardamom powder" amount="2" unit="g"/>
+            <Quantity ingredient="Almonds and pistachios" amount="20" unit="g"/>
+        </Quantities>
+        <Instructions>
+            <Step number="1">Hang yogurt in a muslin cloth to drain whey.</Step>
+            <Step number="2">Mix hung curd with sugar, saffron, and cardamom powder until smooth.</Step>
+            <Step number="3">Chill and garnish with chopped nuts before serving.</Step>
+        </Instructions>
+    </Dessert>
+    <Dessert name="Phirni" region="Punjab">
+        <Ingredients>
+            <Ingredient name="Basmati rice"/>
+            <Ingredient name="Milk"/>
+            <Ingredient name="Sugar"/>
+            <Ingredient name="Cardamom powder"/>
+            <Ingredient name="Saffron strands"/>
+            <Ingredient name="Almonds and pistachios"/>
+        </Ingredients>
+        <Quantities serves="4">
+            <Quantity ingredient="Basmati rice" amount="50" unit="g"/>
+            <Quantity ingredient="Milk" amount="1" unit="liter"/>
+            <Quantity ingredient="Sugar" amount="100" unit="g"/>
+            <Quantity ingredient="Cardamom powder" amount="2" unit="g"/>
+            <Quantity ingredient="Saffron strands" amount="a few"/>
+            <Quantity ingredient="Almonds and pistachios" amount="20" unit="g"/>
+        </Quantities>
+        <Instructions>
+            <Step number="1">Soak rice for 30 minutes, drain, and grind to a coarse paste.</Step>
+            <Step number="2">Boil milk, add rice paste, and cook until thick, stirring continuously.</Step>
+            <Step number="3">Add sugar, cardamom, and saffron, cook for another 5 minutes.</Step>
+            <Step number="4">Pour into serving bowls, garnish with nuts, and chill.</Step>
+        </Instructions>
+    </Dessert>
+    <Dessert name="Gulab Jamun" region="Punjab">
+        <Ingredients>
+            <Ingredient name="Khoya"/>
+            <Ingredient name="All-purpose flour"/>
+            <Ingredient name="Baking powder"/>
+            <Ingredient name="Milk"/>
+            <Ingredient name="Sugar"/>
+            <Ingredient name="Water"/>
+            <Ingredient name="Cardamom powder"/>
+            <Ingredient name="Rose water"/>
+            <Ingredient name="Ghee for frying"/>
+        </Ingredients>
+        <Quantities serves="4">
+            <Quantity ingredient="Khoya" amount="250" unit="g"/>
+            <Quantity ingredient="All-purpose flour" amount="50" unit="g"/>
+            <Quantity ingredient="Baking powder" amount="2" unit="g"/>
+            <Quantity ingredient="Milk" amount="as needed"/>
+            <Quantity ingredient="Sugar" amount="300" unit="g"/>
+            <Quantity ingredient="Water" amount="200" unit="ml"/>
+            <Quantity ingredient="Cardamom powder" amount="2" unit="g"/>
+            <Quantity ingredient="Rose water" amount="a few drops"/>
+            <Quantity ingredient="Ghee for frying" amount="as needed"/>
+        </Quantities>
+        <Instructions>
+            <Step number="1">Mix khoya, flour, and baking powder, add milk to form a dough.</Step>
+            <Step number="2">Make small balls, fry in ghee until golden.</Step>
+            <Step number="3">Prepare sugar syrup with water, cardamom, and rose water.</Step>
+            <Step number="4">Soak fried balls in syrup for at least an hour before serving.</Step>
+        </Instructions>
+    </Dessert>
+    <Dessert name="Gajar Ka Halwa" region="Punjab">
+        <Ingredients>
+            <Ingredient name="Carrots"/>
+            <Ingredient name="Milk"/>
+            <Ingredient name="Sugar"/>
+            <Ingredient name="Ghee"/>
+            <Ingredient name="Cardamom powder"/>
+            <Ingredient name="Almonds and cashews"/>
+        </Ingredients>
+        <Quantities serves="4">
+            <Quantity ingredient="Carrots" amount="500" unit="g" description="grated"/>
+            <Quantity ingredient="Milk" amount="500" unit="ml"/>
+            <Quantity ingredient="Sugar" amount="150" unit="g"/>
+            <Quantity ingredient="Ghee" amount="60" unit="ml"/>
+            <Quantity ingredient="Cardamom powder" amount="2" unit="g"/>
+            <Quantity ingredient="Almonds and cashews" amount="30" unit="g"/>
+        </Quantities>
+        <Instructions>
+            <Step number="1">Heat ghee, add grated carrots, and sauté until soft.</Step>
+            <Step number="2">Add milk, cook until absorbed and carrots are tender.</Step>
+            <Step number="3">Add sugar, cook until thick and glossy.</Step>
+            <Step number="4">Add cardamom powder and nuts, and serve warm.</Step>
+        </Instructions>
+    </Dessert>
+    <Dessert name="Payasam" region="Tamil Nadu">
+        <Ingredients>
+            <Ingredient name="Vermicelli"/>
+            <Ingredient name="Milk"/>
+            <Ingredient name="Sugar"/>
+            <Ingredient name="Cardamom powder"/>
+            <Ingredient name="Cashews and raisins"/>
+            <Ingredient name="Ghee"/>
+        </Ingredients>
+        <Quantities serves="4">
+            <Quantity ingredient="Vermicelli" amount="100" unit="g"/>
+            <Quantity ingredient="Milk" amount="1" unit="liter"/>
+            <Quantity ingredient="Sugar" amount="150" unit="g"/>
+            <Quantity ingredient="Cardamom powder" amount="2" unit="g"/>
+            <Quantity ingredient="Cashews and raisins" amount="20" unit="g"/>
+            <Quantity ingredient="Ghee" amount="30" unit="ml"/>
+        </Quantities>
+        <Instructions>
+            <Step number="1">Heat ghee, fry vermicelli until golden.</Step>
+            <Step number="2">Add milk and sugar, cook until vermicelli is soft.</Step>
+            <Step number="3">Add cardamom powder, cashews, and raisins, simmer for a few minutes.</Step>
+            <Step number="4">Serve warm or chilled.</Step>
+        </Instructions>
+    </Dessert>
+    <Dessert name="Mysore Pak" region="Tamil Nadu">
+        <Ingredients>
+            <Ingredient name="Gram flour (besan)"/>
+            <Ingredient name="Ghee"/>
+            <Ingredient name="Sugar"/>
+            <Ingredient name="Water"/>
+        </Ingredients>
+        <Quantities serves="4">
+            <Quantity ingredient="Gram flour (besan)" amount="250" unit="g"/>
+            <Quantity ingredient="Ghee" amount="250" unit="g"/>
+            <Quantity ingredient="Sugar" amount="500" unit="g"/>
+            <Quantity ingredient="Water" amount="100" unit="ml"/>
+        </Quantities>
+        <Instructions>
+            <Step number="1">Heat ghee in a pan.</Step>
+            <Step number="2">Prepare sugar syrup with water and sugar to a one-string consistency.</Step>
+            <Step number="3">Add besan to the syrup, mix well.</Step>
+            <Step number="4">Gradually add ghee, stirring continuously, until the mixture leaves the sides.</Step>
+            <Step number="5">Pour into a greased tray, cool, and cut into pieces.</Step>
+        </Instructions>
+    </Dessert>
+    <Dessert name="Rava Kesari" region="Tamil Nadu">
+        <Ingredients>
+            <Ingredient name="Semolina (rava)"/>
+            <Ingredient name="Sugar"/>
+            <Ingredient name="Water"/>
+            <Ingredient name="Ghee"/>
+            <Ingredient name="Saffron strands"/>
+            <Ingredient name="Cardamom powder"/>
+            <Ingredient name="Cashews and raisins"/>
+        </Ingredients>
+        <Quantities serves="4">
+            <Quantity ingredient="Semolina (rava)" amount="150" unit="g"/>
+            <Quantity ingredient="Sugar" amount="150" unit="g"/>
+            <Quantity ingredient="Water" amount="300" unit="ml"/>
+            <Quantity ingredient="Ghee" amount="60" unit="ml"/>
+            <Quantity ingredient="Saffron strands" amount="a pinch"/>
+            <Quantity ingredient="Cardamom powder" amount="2" unit="g"/>
+            <Quantity ingredient="Cashews and raisins" amount="20" unit="g"/>
+        </Quantities>
+        <Instructions>
+            <Step number="1">Heat ghee, roast semolina until golden.</Step>
+            <Step number="2">Boil water, add saffron, and pour into roasted semolina.</Step>
+            <Step number="3">Add sugar, cook until thick.</Step>
+            <Step number="4">Add cardamom powder, cashews, and raisins, mix well.</Step>
+        </Instructions>
+    </Dessert>
+</Desserts>
