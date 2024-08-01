@@ -1,0 +1,1051 @@
+<Recipes>
+    <Recipe name="Luchi and Aloo Dum" region="West Bengal">
+        <Serves>4</Serves>
+        <Ingredients>
+            <Ingredient name="All-purpose flour" quantity="500" unit="g" for="Luchi"/>
+            <Ingredient name="Ghee" quantity="30" unit="g" for="Luchi"/>
+            <Ingredient name="Salt" quantity="5" unit="g" for="Luchi"/>
+            <Ingredient name="Water" quantity="as needed" for="Luchi"/>
+            <Ingredient name="Oil" description="for deep frying" quantity="as needed" for="Luchi"/>
+
+            <Ingredient name="Potatoes" quantity="500" unit="g" description="peeled and cubed" for="Aloo Dum"/>
+            <Ingredient name="Onion" quantity="100" unit="g" description="chopped" for="Aloo Dum"/>
+            <Ingredient name="Tomatoes" quantity="200" unit="g" description="chopped" for="Aloo Dum"/>
+            <Ingredient name="Green chilies" quantity="20" unit="g" description="chopped" for="Aloo Dum"/>
+            <Ingredient name="Ginger-garlic paste" quantity="20" unit="g" for="Aloo Dum"/>
+            <Ingredient name="Cumin seeds" quantity="5" unit="g" for="Aloo Dum"/>
+            <Ingredient name="Turmeric powder" quantity="5" unit="g" for="Aloo Dum"/>
+            <Ingredient name="Red chili powder" quantity="5" unit="g" for="Aloo Dum"/>
+            <Ingredient name="Garam masala" quantity="2" unit="g" for="Aloo Dum"/>
+            <Ingredient name="Salt" quantity="to taste" for="Aloo Dum"/>
+            <Ingredient name="Oil" quantity="30" unit="ml" for="Aloo Dum"/>
+            <Ingredient name="Fresh coriander leaves" description="for garnish" for="Aloo Dum"/>
+        </Ingredients>
+        <Instructions>
+            <Step number="1">For luchi, mix flour, ghee, and salt. Add water gradually to form a soft dough. Divide into balls, roll out, and deep fry until golden.</Step>
+            <Step number="2">For aloo dum, heat oil, add cumin seeds, and sauté onions until golden. Add ginger-garlic paste, green chilies, tomatoes, and spices, and cook until tomatoes are soft. Add potatoes, mix well, and simmer until potatoes are tender. Garnish with coriander leaves.</Step>
+        </Instructions>
+    </Recipe>
+    <Recipe name="Cholar Dal and Poori" region="West Bengal">
+        <Serves>4</Serves>
+        <Ingredients>
+            <Ingredient name="Chana dal" quantity="250" unit="g" description="Bengal gram" for="Cholar Dal"/>
+            <Ingredient name="Coconut" quantity="50" unit="g" description="chopped" for="Cholar Dal"/>
+            <Ingredient name="Ginger" quantity="10" unit="g" description="grated" for="Cholar Dal"/>
+            <Ingredient name="Bay leaf" quantity="1" for="Cholar Dal"/>
+            <Ingredient name="Cumin seeds" quantity="5" unit="g" for="Cholar Dal"/>
+            <Ingredient name="Turmeric powder" quantity="5" unit="g" for="Cholar Dal"/>
+            <Ingredient name="Red chili powder" quantity="2" unit="g" for="Cholar Dal"/>
+            <Ingredient name="Ghee" quantity="30" unit="ml" for="Cholar Dal"/>
+            <Ingredient name="Salt" quantity="to taste" for="Cholar Dal"/>
+
+            <Ingredient name="Whole wheat flour" quantity="500" unit="g" for="Poori"/>
+            <Ingredient name="Salt" quantity="5" unit="g" for="Poori"/>
+            <Ingredient name="Water" quantity="as needed" for="Poori"/>
+            <Ingredient name="Oil" description="for deep frying" for="Poori"/>
+        </Ingredients>
+        <Instructions>
+            <Step number="1">Cook chana dal with turmeric and salt until soft. Heat ghee, add cumin seeds, bay leaf, coconut, and ginger, and sauté. Add cooked dal, red chili powder, and simmer.</Step>
+            <Step number="2">Mix flour, salt, and water to form a dough for poori. Divide into balls, roll out, and deep fry until golden.</Step>
+        </Instructions>
+    </Recipe>
+    <Recipe name="Radha Ballavi" region="West Bengal">
+        <Serves>4</Serves>
+        <Ingredients>
+            <Ingredient name="Whole wheat flour" quantity="500" unit="g"/>
+            <Ingredient name="Urad dal" quantity="100" unit="g" description="split black gram, soaked and ground to a paste"/>
+            <Ingredient name="Ginger" quantity="10" unit="g" description="grated"/>
+            <Ingredient name="Fennel seeds" quantity="5" unit="g"/>
+            <Ingredient name="Cumin seeds" quantity="5" unit="g"/>
+            <Ingredient name="Asafoetida" quantity="a pinch"/>
+            <Ingredient name="Salt" quantity="to taste"/>
+            <Ingredient name="Oil" quantity="30" unit="ml"/>
+            <Ingredient name="Oil" description="for deep frying"/>
+        </Ingredients>
+        <Instructions>
+            <Step number="1">Mix flour, salt, and water to form a dough. Divide into balls and set aside.</Step>
+            <Step number="2">Heat oil, add fennel seeds, cumin seeds, asafoetida, and ginger, sauté. Add urad dal paste, cook until moisture evaporates.</Step>
+            <Step number="3">Stuff dough balls with dal mixture, roll out, and deep fry until golden.</Step>
+        </Instructions>
+    </Recipe>
+    <Recipe name="Aloo Paratha" region="Punjab">
+        <Serves>4</Serves>
+        <Ingredients>
+            <Ingredient name="Whole wheat flour" quantity="500" unit="g"/>
+            <Ingredient name="Potatoes" quantity="500" unit="g" description="boiled and mashed"/>
+            <Ingredient name="Green chilies" quantity="20" unit="g" description="chopped"/>
+            <Ingredient name="Ginger" quantity="10" unit="g" description="grated"/>
+            <Ingredient name="Cumin seeds" quantity="5" unit="g"/>
+            <Ingredient name="Coriander leaves" quantity="50" unit="g" description="chopped"/>
+            <Ingredient name="Salt" quantity="to taste"/>
+            <Ingredient name="Ghee" quantity="60" unit="ml"/>
+        </Ingredients>
+        <Instructions>
+            <Step number="1">Mix flour, salt, and water to form a dough. Divide into balls and set aside.</Step>
+            <Step number="2">Mix mashed potatoes, green chilies, ginger, cumin seeds, coriander leaves, and salt for the filling.</Step>
+            <Step number="3">Roll out dough balls, stuff with potato filling, and seal. Roll again and cook on a hot griddle with ghee until golden on both sides.</Step>
+        </Instructions>
+    </Recipe>
+    <Recipe name="Chole Bhature" region="Punjab">
+        <Serves>4</Serves>
+        <Ingredients>
+            <Ingredient name="Chickpeas" quantity="250" unit="g" description="soaked overnight" for="Chole"/>
+            <Ingredient name="Onion" quantity="100" unit="g" description="chopped" for="Chole"/>
+            <Ingredient name="Tomatoes" quantity="200" unit="g" description="chopped" for="Chole"/>
+            <Ingredient name="Green chilies" quantity="20" unit="g" description="chopped" for="Chole"/>
+            <Ingredient name="Ginger-garlic paste" quantity="20" unit="g" for="Chole"/>
+            <Ingredient name="Cumin seeds" quantity="5" unit="g" for="Chole"/>
+            <Ingredient name="Coriander powder" quantity="5" unit="g" for="Chole"/>
+            <Ingredient name="Red chili powder" quantity="5" unit="g" for="Chole"/>
+            <Ingredient name="Garam masala" quantity="2" unit="g" for="Chole"/>
+            <Ingredient name="Salt" quantity="to taste" for="Chole"/>
+            <Ingredient name="Oil" quantity="30" unit="ml" for="Chole"/>
+            <Ingredient name="Fresh coriander leaves" description="for garnish" for="Chole"/>
+
+            <Ingredient name="All-purpose flour" quantity="500" unit="g" description="maida" for="Bhature"/>
+            <Ingredient name="Yogurt" quantity="60" unit="g" for="Bhature"/>
+            <Ingredient name="Baking powder" quantity="5" unit="g" for="Bhature"/>
+            <Ingredient name="Salt" quantity="to taste" for="Bhature"/>
+            <Ingredient name="Water" quantity="as needed" for="Bhature"/>
+            <Ingredient name="Oil" description="for deep frying" for="Bhature"/>
+        </Ingredients>
+        <Instructions>
+            <Step number="1">For chole, boil chickpeas until tender. Heat oil, add cumin seeds, onions, ginger-garlic paste, green chilies, tomatoes, and spices, cook until thick. Add chickpeas, simmer, and garnish with coriander leaves.</Step>
+            <Step number="2">For bhature, mix flour, yogurt, baking powder, and salt. Add water to form a dough. Roll out and deep fry until puffed and golden.</Step>
+        </Instructions>
+    </Recipe>
+    <Recipe name="Lassi" region="Punjab">
+        <Serves>4</Serves>
+        <Ingredients>
+            <Ingredient name="Yogurt" quantity="1" unit="kg"/>
+            <Ingredient name="Water" quantity="500" unit="ml"/>
+            <Ingredient name="Sugar" quantity="100" unit="g" description="adjust to taste"/>
+            <Ingredient name="Cardamom powder" quantity="2" unit="g"/>
+            <Ingredient name="Saffron strands" quantity="a pinch"/>
+            <Ingredient name="Crushed ice" description="optional"/>
+        </Ingredients>
+        <Instructions>
+            <Step number="1">Blend yogurt, water, sugar, and cardamom powder until smooth.</Step>
+            <Step number="2">Pour into glasses, garnish with saffron strands and serve chilled with crushed ice.</Step>
+        </Instructions>
+    </Recipe>
+    <Recipe name="Bedmi Puri and Aloo Sabzi" region="Uttar Pradesh">
+        <Serves>4</Serves>
+        <Ingredients>
+            <Ingredient name="Whole wheat flour" quantity="500" unit="g" for="Bedmi Puri"/>
+            <Ingredient name="Urad dal" quantity="100" unit="g" description="split black gram, soaked and ground to a paste" for="Bedmi Puri"/>
+            <Ingredient name="Fennel seeds" quantity="5" unit="g" for="Bedmi Puri"/>
+            <Ingredient name="Cumin seeds" quantity="5" unit="g" for="Bedmi Puri"/>
+            <Ingredient name="Asafoetida" quantity="a pinch" for="Bedmi Puri"/>
+            <Ingredient name="Salt" quantity="to taste" for="Bedmi Puri"/>
+            <Ingredient name="Oil" description="for deep frying" for="Bedmi Puri"/>
+
+            <Ingredient name="Potatoes" quantity="500" unit="g" description="peeled and cubed" for="Aloo Sabzi"/>
+            <Ingredient name="Onion" quantity="100" unit="g" description="chopped" for="Aloo Sabzi"/>
+            <Ingredient name="Tomatoes" quantity="200" unit="g" description="chopped" for="Aloo Sabzi"/>
+            <Ingredient name="Ginger-garlic paste" quantity="20" unit="g" for="Aloo Sabzi"/>
+            <Ingredient name="Cumin seeds" quantity="5" unit="g" for="Aloo Sabzi"/>
+            <Ingredient name="Turmeric powder" quantity="5" unit="g" for="Aloo Sabzi"/>
+            <Ingredient name="Red chili powder" quantity="5" unit="g" for="Aloo Sabzi"/>
+            <Ingredient name="Garam masala" quantity="2" unit="g" for="Aloo Sabzi"/>
+            <Ingredient name="Salt" quantity="to taste" for="Aloo Sabzi"/>
+            <Ingredient name="Oil" quantity="30" unit="ml" for="Aloo Sabzi"/>
+            <Ingredient name="Fresh coriander leaves" description="for garnish" for="Aloo Sabzi"/>
+        </Ingredients>
+        <Instructions>
+            <Step number="1">For bedmi puri, mix flour, urad dal paste, fennel seeds, cumin seeds, asafoetida, and salt. Roll into balls, flatten, and deep fry until golden.</Step>
+            <Step number="2">For aloo sabzi, heat oil, add cumin seeds, and sauté onions until golden. Add ginger-garlic paste, tomatoes, and spices, cook until thick. Add potatoes, simmer until tender, and garnish with coriander leaves.</Step>
+        </Instructions>
+    </Recipe>
+    <Recipe name="Kachori" region="Uttar Pradesh">
+        <Serves>4</Serves>
+        <Ingredients>
+            <Ingredient name="All-purpose flour" quantity="500" unit="g" description="maida"/>
+            <Ingredient name="Moong dal" quantity="100" unit="g" description="split green gram, soaked and ground to a paste"/>
+            <Ingredient name="Fennel seeds" quantity="5" unit="g"/>
+            <Ingredient name="Cumin seeds" quantity="5" unit="g"/>
+            <Ingredient name="Asafoetida" quantity="a pinch"/>
+            <Ingredient name="Salt" quantity="to taste"/>
+            <Ingredient name="Oil" description="for deep frying"/>
+        </Ingredients>
+        <Instructions>
+            <Step number="1">Mix flour, salt, and water to form a dough. Divide into balls and set aside.</Step>
+            <Step number="2">Heat oil, add fennel seeds, cumin seeds, asafoetida, and moong dal paste, cook until dry.</Step>
+            <Step number="3">Stuff dough balls with dal mixture, flatten, and deep fry until golden.</Step>
+        </Instructions>
+    </Recipe>
+    <Recipe name="Malaiyo" region="Uttar Pradesh">
+        <Serves>4</Serves>
+        <Ingredients>
+            <Ingredient name="Milk" quantity="1" unit="liter"/>
+            <Ingredient name="Sugar" quantity="100" unit="g"/>
+            <Ingredient name="Cardamom powder" quantity="2" unit="g"/>
+            <Ingredient name="Saffron strands" quantity="a pinch"/>
+            <Ingredient name="Pistachios" quantity="20" unit="g" description="chopped"/>
+        </Ingredients>
+        <Instructions>
+            <Step number="1">Boil milk and reduce to half. Add sugar, cardamom, and saffron, and mix well.</Step>
+            <Step number="2">Allow milk to cool, whip until frothy, and refrigerate.</Step>
+            <Step number="3">Serve chilled, garnished with pistachios.</Step>
+        </Instructions>
+    </Recipe>
+    <Recipe name="Appam and Stew" region="Kerala">
+        <Serves>4</Serves>
+        <Ingredients>
+            <Ingredient name="Raw rice" quantity="250" unit="g" description="soaked" for="Appam"/>
+            <Ingredient name="Coconut" quantity="50" unit="g" description="grated" for="Appam"/>
+            <Ingredient name="Yeast" quantity="5" unit="g" for="Appam"/>
+            <Ingredient name="Sugar" quantity="20" unit="g" for="Appam"/>
+            <Ingredient name="Salt" quantity="to taste" for="Appam"/>
+
+            <Ingredient name="Mixed vegetables" quantity="500" unit="g" description="potato, carrot, beans, chopped" for="Stew"/>
+            <Ingredient name="Coconut milk" quantity="250" unit="ml" for="Stew"/>
+            <Ingredient name="Onion" quantity="100" unit="g" description="sliced" for="Stew"/>
+            <Ingredient name="Ginger" quantity="10" unit="g" description="sliced" for="Stew"/>
+            <Ingredient name="Green chilies" quantity="20" unit="g" description="slit" for="Stew"/>
+            <Ingredient name="Curry leaves" description="a few" for="Stew"/>
+            <Ingredient name="Mustard seeds" quantity="5" unit="g" for="Stew"/>
+            <Ingredient name="Coconut oil" quantity="30" unit="ml" for="Stew"/>
+            <Ingredient name="Salt" quantity="to taste" for="Stew"/>
+        </Ingredients>
+        <Instructions>
+            <Step number="1">For appam, grind rice with coconut to a smooth batter. Add yeast, sugar, and salt, ferment overnight. Pour batter into a hot appam pan, cook until the edges are crisp.</Step>
+            <Step number="2">For stew, heat coconut oil, add mustard seeds, curry leaves, onions, ginger, and green chilies, sauté until fragrant. Add vegetables and salt, cook until tender. Add coconut milk, simmer, and serve with appam.</Step>
+        </Instructions>
+    </Recipe>
+    <Recipe name="Puttu and Kadala Curry" region="Kerala">
+        <Serves>4</Serves>
+        <Ingredients>
+            <Ingredient name="Rice flour" quantity="250" unit="g" for="Puttu"/>
+            <Ingredient name="Grated coconut" quantity="50" unit="g" for="Puttu"/>
+            <Ingredient name="Water" quantity="as needed" for="Puttu"/>
+            <Ingredient name="Salt" quantity="to taste" for="Puttu"/>
+
+            <Ingredient name="Black chickpeas" quantity="250" unit="g" description="soaked overnight" for="Kadala Curry"/>
+            <Ingredient name="Onion" quantity="100" unit="g" description="chopped" for="Kadala Curry"/>
+            <Ingredient name="Tomatoes" quantity="200" unit="g" description="chopped" for="Kadala Curry"/>
+            <Ingredient name="Ginger-garlic paste" quantity="20" unit="g" for="Kadala Curry"/>
+            <Ingredient name="Cumin seeds" quantity="5" unit="g" for="Kadala Curry"/>
+            <Ingredient name="Turmeric powder" quantity="5" unit="g" for="Kadala Curry"/>
+            <Ingredient name="Red chili powder" quantity="5" unit="g" for="Kadala Curry"/>
+            <Ingredient name="Garam masala" quantity="2" unit="g" for="Kadala Curry"/>
+            <Ingredient name="Coconut oil" quantity="30" unit="ml" for="Kadala Curry"/>
+            <Ingredient name="Salt" quantity="to taste" for="Kadala Curry"/>
+            <Ingredient name="Fresh coriander leaves" description="for garnish" for="Kadala Curry"/>
+        </Ingredients>
+        <Instructions>
+            <Step number="1">For puttu, mix rice flour with salt and water to a crumbly texture. Layer in a puttu maker with grated coconut and steam until cooked.</Step>
+            <Step number="2">For kadala curry, boil chickpeas until tender. Heat coconut oil, add cumin seeds, onions, ginger-garlic paste, tomatoes, and spices, cook until thick. Add chickpeas, simmer, and garnish with coriander leaves.</Step>
+        </Instructions>
+    </Recipe>
+    <Recipe name="Dosa and Sambar" region="Kerala">
+        <Serves>4</Serves>
+        <Ingredients>
+            <Ingredient name="Rice" quantity="250" unit="g" description="soaked" for="Dosa"/>
+            <Ingredient name="Urad dal" quantity="100" unit="g" description="split black gram, soaked" for="Dosa"/>
+            <Ingredient name="Fenugreek seeds" quantity="5" unit="g" for="Dosa"/>
+            <Ingredient name="Salt" quantity="to taste" for="Dosa"/>
+            <Ingredient name="Oil" description="for cooking" for="Dosa"/>
+
+            <Ingredient name="Toor dal" quantity="200" unit="g" description="split pigeon peas" for="Sambar"/>
+            <Ingredient name="Mixed vegetables" quantity="300" unit="g" description="carrot, potato, beans, chopped" for="Sambar"/>
+            <Ingredient name="Onion" quantity="100" unit="g" description="sliced" for="Sambar"/>
+            <Ingredient name="Tomatoes" quantity="200" unit="g" description="chopped" for="Sambar"/>
+            <Ingredient name="Tamarind pulp" quantity="30" unit="ml" for="Sambar"/>
+            <Ingredient name="Sambar powder" quantity="20" unit="g" for="Sambar"/>
+            <Ingredient name="Mustard seeds" quantity="5" unit="g" for="Sambar"/>
+            <Ingredient name="Curry leaves" description="a few" for="Sambar"/>
+            <Ingredient name="Oil" quantity="30" unit="ml" for="Sambar"/>
+            <Ingredient name="Salt" quantity="to taste" for="Sambar"/>
+        </Ingredients>
+        <Instructions>
+            <Step number="1">For dosa, grind rice, urad dal, and fenugreek seeds to a smooth batter. Add salt and ferment overnight. Pour batter on a hot griddle, spread, and cook until crispy.</Step>
+            <Step number="2">For sambar, boil dal and vegetables until tender. Heat oil, add mustard seeds, curry leaves, onions, and tomatoes, sauté. Add tamarind pulp, sambar powder, salt, and cooked dal, simmer.</Step>
+        </Instructions>
+    </Recipe>
+    <Recipe name="Poha" region="Maharashtra">
+        <Serves>4</Serves>
+        <Ingredients>
+            <Ingredient name="Flattened rice" quantity="250" unit="g" description="poha"/>
+            <Ingredient name="Potatoes" quantity="200" unit="g" description="diced"/>
+            <Ingredient name="Onion" quantity="100" unit="g" description="chopped"/>
+            <Ingredient name="Green chilies" quantity="20" unit="g" description="chopped"/>
+            <Ingredient name="Peanuts" quantity="50" unit="g"/>
+            <Ingredient name="Mustard seeds" quantity="5" unit="g"/>
+            <Ingredient name="Turmeric powder" quantity="5" unit="g"/>
+            <Ingredient name="Salt" quantity="to taste"/>
+            <Ingredient name="Oil" quantity="30" unit="ml"/>
+            <Ingredient name="Fresh coriander leaves" description="for garnish"/>
+        </Ingredients>
+        <Instructions>
+            <Step number="1">Rinse poha in water and drain.</Step>
+            <Step number="2">Heat oil, add mustard seeds, peanuts, green chilies, and onions, sauté until golden. Add potatoes and turmeric, cook until tender.</Step>
+            <Step number="3">Add poha, salt, and mix well. Garnish with coriander leaves.</Step>
+        </Instructions>
+    </Recipe>
+    <Recipe name="Misal Pav" region="Maharashtra">
+        <Serves>4</Serves>
+        <Ingredients>
+            <Ingredient name="Sprouted moth beans" quantity="250" unit="g" description="matki"/>
+            <Ingredient name="Onion" quantity="100" unit="g" description="chopped"/>
+            <Ingredient name="Tomatoes" quantity="200" unit="g" description="chopped"/>
+            <Ingredient name="Green chilies" quantity="20" unit="g" description="chopped"/>
+            <Ingredient name="Ginger-garlic paste" quantity="20" unit="g"/>
+            <Ingredient name="Cumin seeds" quantity="5" unit="g"/>
+            <Ingredient name="Red chili powder" quantity="5" unit="g"/>
+            <Ingredient name="Garam masala" quantity="2" unit="g"/>
+            <Ingredient name="Oil" quantity="30" unit="ml"/>
+            <Ingredient name="Salt" quantity="to taste"/>
+            <Ingredient name="Fresh coriander leaves" description="for garnish"/>
+            <Ingredient name="Pav" quantity="8" description="bread rolls"/>
+        </Ingredients>
+        <Instructions>
+            <Step number="1">Boil sprouted beans until tender.</Step>
+            <Step number="2">Heat oil, add cumin seeds, onions, ginger-garlic paste, green chilies, tomatoes, and spices, cook until thick. Add beans, simmer.</Step>
+            <Step number="3">Serve hot misal with pav and garnish with coriander leaves.</Step>
+        </Instructions>
+    </Recipe>
+    <Recipe name="Sabudana Khichdi" region="Maharashtra">
+        <Serves>4</Serves>
+        <Ingredients>
+            <Ingredient name="Sabudana" quantity="250" unit="g" description="tapioca pearls, soaked overnight"/>
+            <Ingredient name="Potatoes" quantity="200" unit="g" description="cubed"/>
+            <Ingredient name="Peanuts" quantity="50" unit="g" description="roasted and crushed"/>
+            <Ingredient name="Cumin seeds" quantity="5" unit="g"/>
+            <Ingredient name="Green chilies" quantity="20" unit="g" description="chopped"/>
+            <Ingredient name="Salt" quantity="to taste"/>
+            <Ingredient name="Sugar" quantity="5" unit="g"/>
+            <Ingredient name="Lemon juice" quantity="15" unit="ml"/>
+            <Ingredient name="Oil" quantity="30" unit="ml"/>
+            <Ingredient name="Fresh coriander leaves" description="for garnish"/>
+        </Ingredients>
+        <Instructions>
+            <Step number="1">Heat oil, add cumin seeds, green chilies, and potatoes, cook until tender.</Step>
+            <Step number="2">Add soaked sabudana, peanuts, salt, and sugar, mix well. Cook until sabudana turns translucent.</Step>
+            <Step number="3">Add lemon juice and garnish with coriander leaves.</Step>
+        </Instructions>
+    </Recipe>
+    <Recipe name="Chuda Santula" region="Odisha">
+        <Serves>4</Serves>
+        <Ingredients>
+            <Ingredient name="Flattened rice" quantity="250" unit="g" description="chuda"/>
+            <Ingredient name="Mixed vegetables" quantity="300" unit="g" description="potato, carrot, beans, chopped"/>
+            <Ingredient name="Onion" quantity="100" unit="g" description="chopped"/>
+            <Ingredient name="Green chilies" quantity="20" unit="g" description="chopped"/>
+            <Ingredient name="Cumin seeds" quantity="5" unit="g"/>
+            <Ingredient name="Turmeric powder" quantity="5" unit="g"/>
+            <Ingredient name="Salt" quantity="to taste"/>
+            <Ingredient name="Oil" quantity="30" unit="ml"/>
+            <Ingredient name="Fresh coriander leaves" description="for garnish"/>
+        </Ingredients>
+        <Instructions>
+            <Step number="1">Rinse chuda in water and drain.</Step>
+            <Step number="2">Heat oil, add cumin seeds, green chilies, and onions, sauté until golden. Add vegetables, turmeric, and salt, cook until tender.</Step>
+            <Step number="3">Add chuda, mix well, and garnish with coriander leaves.</Step>
+        </Instructions>
+    </Recipe>
+    <Recipe name="Poda Pitha" region="Odisha">
+        <Serves>4</Serves>
+        <Ingredients>
+            <Ingredient name="Rice flour" quantity="250" unit="g"/>
+            <Ingredient name="Grated coconut" quantity="50" unit="g"/>
+            <Ingredient name="Jaggery" quantity="100" unit="g" description="grated"/>
+            <Ingredient name="Black gram" quantity="100" unit="g" description="urad dal, soaked and ground"/>
+            <Ingredient name="Cardamom powder" quantity="2" unit="g"/>
+            <Ingredient name="Salt" quantity="to taste"/>
+            <Ingredient name="Oil" quantity="30" unit="ml"/>
+        </Ingredients>
+        <Instructions>
+            <Step number="1">Mix rice flour, urad dal paste, coconut, jaggery, cardamom, and salt.</Step>
+            <Step number="2">Grease a baking dish, pour the mixture, and bake until firm and golden.</Step>
+            <Step number="3">Cut into pieces and serve warm.</Step>
+        </Instructions>
+    </Recipe>
+    <Recipe name="Dalma and Pakhala Bhata" region="Odisha">
+        <Serves>4</Serves>
+        <Ingredients>
+            <Ingredient name="Toor dal" quantity="200" unit="g" description="split pigeon peas" for="Dalma"/>
+            <Ingredient name="Mixed vegetables" quantity="300" unit="g" description="potato, pumpkin, eggplant, chopped" for="Dalma"/>
+            <Ingredient name="Grated coconut" quantity="50" unit="g" for="Dalma"/>
+            <Ingredient name="Cumin seeds" quantity="5" unit="g" for="Dalma"/>
+            <Ingredient name="Turmeric powder" quantity="5" unit="g" for="Dalma"/>
+            <Ingredient name="Salt" quantity="to taste" for="Dalma"/>
+            <Ingredient name="Water" quantity="1" unit="liter" for="Dalma"/>
+
+            <Ingredient name="Cooked rice" quantity="500" unit="g" for="Pakhala Bhata"/>
+            <Ingredient name="Water" quantity="500" unit="ml" for="Pakhala Bhata"/>
+            <Ingredient name="Yogurt" quantity="250" unit="ml" for="Pakhala Bhata"/>
+            <Ingredient name="Salt" quantity="to taste" for="Pakhala Bhata"/>
+        </Ingredients>
+        <Instructions>
+            <Step number="1">For dalma, boil dal and vegetables with cumin seeds, turmeric, and salt until cooked. Add coconut and simmer.</Step>
+            <Step number="2">For pakhala bhata, mix rice with water, yogurt, and salt, and let it ferment slightly. Serve chilled with dalma.</Step>
+        </Instructions>
+    </Recipe>
+    <Recipe name="Bajra Roti and Lehsun Chutney" region="Rajasthan">
+        <Serves>4</Serves>
+        <Ingredients>
+            <Ingredient name="Bajra flour" quantity="500" unit="g" description="pearl millet flour" for="Bajra Roti"/>
+            <Ingredient name="Salt" quantity="to taste" for="Bajra Roti"/>
+            <Ingredient name="Water" quantity="as needed" for="Bajra Roti"/>
+
+            <Ingredient name="Garlic" quantity="50" unit="g" description="peeled" for="Lehsun Chutney"/>
+            <Ingredient name="Red chili powder" quantity="10" unit="g" for="Lehsun Chutney"/>
+            <Ingredient name="Cumin seeds" quantity="5" unit="g" for="Lehsun Chutney"/>
+            <Ingredient name="Lemon juice" quantity="30" unit="ml" for="Lehsun Chutney"/>
+            <Ingredient name="Salt" quantity="to taste" for="Lehsun Chutney"/>
+            <Ingredient name="Oil" quantity="30" unit="ml" for="Lehsun Chutney"/>
+        </Ingredients>
+        <Instructions>
+            <Step number="1">For bajra roti, mix flour, salt, and water to form a dough. Roll into flatbreads and cook on a griddle until cooked through.</Step>
+            <Step number="2">For lehsun chutney, grind garlic, red chili powder, cumin seeds, lemon juice, and salt to a paste. Heat oil, add paste, and cook until fragrant.</Step>
+        </Instructions>
+    </Recipe>
+    <Recipe name="Moong Dal Cheela" region="Rajasthan">
+        <Serves>4</Serves>
+        <Ingredients>
+            <Ingredient name="Moong dal" quantity="200" unit="g" description="split green gram, soaked and ground to a batter"/>
+            <Ingredient name="Onion" quantity="100" unit="g" description="chopped"/>
+            <Ingredient name="Green chilies" quantity="20" unit="g" description="chopped"/>
+            <Ingredient name="Ginger" quantity="10" unit="g" description="grated"/>
+            <Ingredient name="Cumin seeds" quantity="5" unit="g"/>
+            <Ingredient name="Salt" quantity="to taste"/>
+            <Ingredient name="Oil" description="for cooking"/>
+        </Ingredients>
+        <Instructions>
+            <Step number="1">Mix moong dal batter with onions, green chilies, ginger, cumin seeds, and salt.</Step>
+            <Step number="2">Pour batter onto a hot griddle, spread into a thin pancake, and cook with oil until golden on both sides.</Step>
+        </Instructions>
+    </Recipe>
+    <Recipe name="Dal Baati" region="Rajasthan">
+        <Serves>4</Serves>
+        <Ingredients>
+            <Ingredient name="Whole wheat flour" quantity="500" unit="g" for="Baati"/>
+            <Ingredient name="Ghee" quantity="60" unit="ml" for="Baati"/>
+            <Ingredient name="Baking powder" quantity="5" unit="g" for="Baati"/>
+            <Ingredient name="Salt" quantity="to taste" for="Baati"/>
+            <Ingredient name="Water" quantity="as needed" for="Baati"/>
+
+            <Ingredient name="Toor dal" quantity="200" unit="g" description="split pigeon peas" for="Dal"/>
+            <Ingredient name="Onion" quantity="100" unit="g" description="chopped" for="Dal"/>
+            <Ingredient name="Tomatoes" quantity="200" unit="g" description="chopped" for="Dal"/>
+            <Ingredient name="Ginger-garlic paste" quantity="20" unit="g" for="Dal"/>
+            <Ingredient name="Cumin seeds" quantity="5" unit="g" for="Dal"/>
+            <Ingredient name="Turmeric powder" quantity="5" unit="g" for="Dal"/>
+            <Ingredient name="Red chili powder" quantity="5" unit="g" for="Dal"/>
+            <Ingredient name="Garam masala" quantity="2" unit="g" for="Dal"/>
+            <Ingredient name="Ghee" quantity="30" unit="ml" for="Dal"/>
+            <Ingredient name="Salt" quantity="to taste" for="Dal"/>
+            <Ingredient name="Fresh coriander leaves" description="for garnish" for="Dal"/>
+        </Ingredients>
+        <Instructions>
+            <Step number="1">For baati, mix flour, ghee, baking powder, and salt to form a dough. Shape into balls and bake until golden.</Step>
+            <Step number="2">For dal, boil dal until tender. Heat ghee, add cumin seeds, onions, ginger-garlic paste, tomatoes, and spices, cook until thick. Add dal, simmer, and garnish with coriander leaves.</Step>
+            <Step number="3">Serve baati with dal, drizzled with ghee.</Step>
+        </Instructions>
+    </Recipe>
+    <Recipe name="Thepla" region="Gujarat">
+        <Serves>4</Serves>
+        <Ingredients>
+            <Ingredient name="Whole wheat flour" quantity="500" unit="g"/>
+            <Ingredient name="Fenugreek leaves" quantity="100" unit="g" description="methi, chopped"/>
+            <Ingredient name="Yogurt" quantity="60" unit="ml"/>
+            <Ingredient name="Turmeric powder" quantity="5" unit="g"/>
+            <Ingredient name="Red chili powder" quantity="5" unit="g"/>
+            <Ingredient name="Salt" quantity="to taste"/>
+            <Ingredient name="Oil" quantity="30" unit="ml"/>
+        </Ingredients>
+        <Instructions>
+            <Step number="1">Mix flour, fenugreek leaves, yogurt, turmeric, red chili powder, salt, and water to form a dough.</Step>
+            <Step number="2">Roll into thin flatbreads and cook on a griddle with oil until golden on both sides.</Step>
+        </Instructions>
+    </Recipe>
+    <Recipe name="Khaman Dhokla" region="Gujarat">
+        <Serves>4</Serves>
+        <Ingredients>
+            <Ingredient name="Gram flour" quantity="250" unit="g" description="besan"/>
+            <Ingredient name="Yogurt" quantity="125" unit="ml"/>
+            <Ingredient name="Water" quantity="125" unit="ml"/>
+            <Ingredient name="Eno fruit salt" quantity="10" unit="g"/>
+            <Ingredient name="Sugar" quantity="30" unit="g"/>
+            <Ingredient name="Lemon juice" quantity="30" unit="ml"/>
+            <Ingredient name="Mustard seeds" quantity="5" unit="g"/>
+            <Ingredient name="Green chilies" quantity="20" unit="g" description="chopped"/>
+            <Ingredient name="Curry leaves" description="a few"/>
+            <Ingredient name="Grated coconut" quantity="30" unit="g"/>
+            <Ingredient name="Fresh coriander leaves" description="for garnish"/>
+        </Ingredients>
+        <Instructions>
+            <Step number="1">Mix gram flour, yogurt, water, sugar, lemon juice, and salt to form a batter. Add eno fruit salt and mix well.</Step>
+            <Step number="2">Pour into a greased steaming dish and steam until cooked. Cool and cut into pieces.</Step>
+            <Step number="3">Heat oil, add mustard seeds, green chilies, and curry leaves, pour over dhokla. Garnish with coconut and coriander leaves.</Step>
+        </Instructions>
+    </Recipe>
+    <Recipe name="Methi Na Gota" region="Gujarat">
+        <Serves>4</Serves>
+        <Ingredients>
+            <Ingredient name="Gram flour" quantity="250" unit="g" description="besan"/>
+            <Ingredient name="Fenugreek leaves" quantity="100" unit="g" description="methi, chopped"/>
+            <Ingredient name="Green chilies" quantity="20" unit="g" description="chopped"/>
+            <Ingredient name="Ginger" quantity="10" unit="g" description="grated"/>
+            <Ingredient name="Turmeric powder" quantity="5" unit="g"/>
+            <Ingredient name="Red chili powder" quantity="5" unit="g"/>
+            <Ingredient name="Salt" quantity="to taste"/>
+            <Ingredient name="Water" quantity="as needed"/>
+            <Ingredient name="Oil" description="for deep frying"/>
+        </Ingredients>
+        <Instructions>
+            <Step number="1">Mix gram flour, fenugreek leaves, green chilies, ginger, turmeric, red chili powder, salt, and water to form a thick batter.</Step>
+            <Step number="2">Heat oil, drop spoonfuls of batter into hot oil, and deep fry until golden.</Step>
+            <Step number="3">Serve hot with chutney.</Step>
+        </Instructions>
+    </Recipe>
+    <Recipe name="Pesarattu" region="Andhra Pradesh">
+        <Serves>4</Serves>
+        <Ingredients>
+            <Ingredient name="Green gram" quantity="250" unit="g" description="moong dal, soaked and ground to a batter"/>
+            <Ingredient name="Rice flour" quantity="30" unit="g"/>
+            <Ingredient name="Green chilies" quantity="20" unit="g" description="chopped"/>
+            <Ingredient name="Ginger" quantity="10" unit="g" description="grated"/>
+            <Ingredient name="Cumin seeds" quantity="5" unit="g"/>
+            <Ingredient name="Onion" quantity="100" unit="g" description="chopped"/>
+            <Ingredient name="Salt" quantity="to taste"/>
+            <Ingredient name="Oil" description="for cooking"/>
+        </Ingredients>
+        <Instructions>
+            <Step number="1">Mix moong dal batter with rice flour, green chilies, ginger, cumin seeds, and salt.</Step>
+            <Step number="2">Pour batter onto a hot griddle, spread into a thin pancake, and cook with oil until crispy on both sides. Top with chopped onions.</Step>
+        </Instructions>
+    </Recipe>
+    <Recipe name="Upma" region="Andhra Pradesh">
+        <Serves>4</Serves>
+        <Ingredients>
+            <Ingredient name="Semolina" quantity="250" unit="g" description="rava"/>
+            <Ingredient name="Onion" quantity="100" unit="g" description="chopped"/>
+            <Ingredient name="Green chilies" quantity="20" unit="g" description="chopped"/>
+            <Ingredient name="Ginger" quantity="10" unit="g" description="grated"/>
+            <Ingredient name="Mustard seeds" quantity="5" unit="g"/>
+            <Ingredient name="Curry leaves" description="a few"/>
+            <Ingredient name="Turmeric powder" quantity="5" unit="g"/>
+            <Ingredient name="Salt" quantity="to taste"/>
+            <Ingredient name="Water" quantity="750" unit="ml"/>
+            <Ingredient name="Ghee" quantity="30" unit="ml"/>
+        </Ingredients>
+        <Instructions>
+            <Step number="1">Dry roast semolina until fragrant and set aside.</Step>
+            <Step number="2">Heat ghee, add mustard seeds, curry leaves, green chilies, and onions, sauté until golden.</Step>
+            <Step number="3">Add water, turmeric, and salt, bring to a boil. Gradually add semolina, stirring continuously until thickened.</Step>
+        </Instructions>
+    </Recipe>
+    <Recipe name="Pongal" region="Andhra Pradesh">
+        <Serves>4</Serves>
+        <Ingredients>
+            <Ingredient name="Rice" quantity="200" unit="g"/>
+            <Ingredient name="Moong dal" quantity="100" unit="g" description="split green gram"/>
+            <Ingredient name="Black pepper" quantity="5" unit="g"/>
+            <Ingredient name="Cumin seeds" quantity="5" unit="g"/>
+            <Ingredient name="Ginger" quantity="10" unit="g" description="grated"/>
+            <Ingredient name="Cashews" quantity="30" unit="g"/>
+            <Ingredient name="Curry leaves" description="a few"/>
+            <Ingredient name="Ghee" quantity="60" unit="ml"/>
+            <Ingredient name="Salt" quantity="to taste"/>
+        </Ingredients>
+        <Instructions>
+            <Step number="1">Dry roast rice and moong dal, then cook together with salt and water until soft.</Step>
+            <Step number="2">Heat ghee, add black pepper, cumin seeds, ginger, cashews, and curry leaves, sauté until golden.</Step>
+            <Step number="3">Add tempering to the cooked rice and dal mixture, mix well.</Step>
+        </Instructions>
+    </Recipe>
+    <Recipe name="Idli and Coconut Chutney" region="Tamil Nadu">
+        <Serves>4</Serves>
+        <Ingredients>
+            <Ingredient name="Rice" quantity="250" unit="g" description="soaked" for="Idli"/>
+            <Ingredient name="Urad dal" quantity="100" unit="g" description="split black gram, soaked" for="Idli"/>
+            <Ingredient name="Salt" quantity="to taste" for="Idli"/>
+            <Ingredient name="Water" quantity="as needed" for="Idli"/>
+
+            <Ingredient name="Grated coconut" quantity="100" unit="g" for="Coconut Chutney"/>
+            <Ingredient name="Green chilies" quantity="20" unit="g" description="chopped" for="Coconut Chutney"/>
+            <Ingredient name="Ginger" quantity="10" unit="g" description="grated" for="Coconut Chutney"/>
+            <Ingredient name="Curry leaves" description="a few" for="Coconut Chutney"/>
+            <Ingredient name="Mustard seeds" quantity="5" unit="g" for="Coconut Chutney"/>
+            <Ingredient name="Oil" quantity="15" unit="ml" for="Coconut Chutney"/>
+            <Ingredient name="Salt" quantity="to taste" for="Coconut Chutney"/>
+        </Ingredients>
+        <Instructions>
+            <Step number="1">For idli, grind rice and urad dal to a smooth batter. Add salt and ferment overnight. Pour into idli molds and steam until cooked.</Step>
+            <Step number="2">For chutney, grind coconut, green chilies, ginger, and salt to a paste. Heat oil, add mustard seeds and curry leaves, pour over chutney.</Step>
+        </Instructions>
+    </Recipe>
+    <Recipe name="Uttapam" region="Tamil Nadu">
+        <Serves>4</Serves>
+        <Ingredients>
+            <Ingredient name="Rice" quantity="250" unit="g" description="soaked"/>
+            <Ingredient name="Urad dal" quantity="100" unit="g" description="split black gram, soaked"/>
+            <Ingredient name="Onion" quantity="100" unit="g" description="chopped"/>
+            <Ingredient name="Tomatoes" quantity="100" unit="g" description="chopped"/>
+            <Ingredient name="Green chilies" quantity="20" unit="g" description="chopped"/>
+            <Ingredient name="Fresh coriander leaves" quantity="50" unit="g" description="chopped"/>
+            <Ingredient name="Salt" quantity="to taste"/>
+            <Ingredient name="Oil" description="for cooking"/>
+        </Ingredients>
+        <Instructions>
+            <Step number="1">Grind rice and urad dal to a smooth batter, add salt, and ferment overnight.</Step>
+            <Step number="2">Pour batter onto a hot griddle, top with onions, tomatoes, green chilies, and coriander leaves, and cook with oil until golden on both sides.</Step>
+        </Instructions>
+    </Recipe>
+    <Recipe name="Vada" region="Tamil Nadu">
+        <Serves>4</Serves>
+        <Ingredients>
+            <Ingredient name="Urad dal" quantity="250" unit="g" description="split black gram, soaked and ground to a thick batter"/>
+            <Ingredient name="Onion" quantity="100" unit="g" description="chopped"/>
+            <Ingredient name="Green chilies" quantity="20" unit="g" description="chopped"/>
+            <Ingredient name="Curry leaves" description="a few"/>
+            <Ingredient name="Ginger" quantity="10" unit="g" description="grated"/>
+            <Ingredient name="Salt" quantity="to taste"/>
+            <Ingredient name="Oil" description="for deep frying"/>
+        </Ingredients>
+        <Instructions>
+            <Step number="1">Mix urad dal batter with onions, green chilies, curry leaves, ginger, and salt.</Step>
+            <Step number="2">Shape batter into small balls, flatten slightly, and deep fry until golden.</Step>
+        </Instructions>
+    </Recipe>
+    <Recipe name="Babru" region="Himachal Pradesh">
+        <Serves>4</Serves>
+        <Ingredients>
+            <Ingredient name="Whole wheat flour" quantity="500" unit="g"/>
+            <Ingredient name="Black gram" quantity="100" unit="g" description="urad dal, soaked and ground"/>
+            <Ingredient name="Fennel seeds" quantity="5" unit="g"/>
+            <Ingredient name="Salt" quantity="to taste"/>
+            <Ingredient name="Oil" description="for deep frying"/>
+        </Ingredients>
+        <Instructions>
+            <Step number="1">Mix flour, salt, and water to form a dough. Divide into balls and set aside.</Step>
+            <Step number="2">Mix ground urad dal with fennel seeds and salt. Stuff dough balls with dal mixture, roll out, and deep fry until golden.</Step>
+        </Instructions>
+    </Recipe>
+    <Recipe name="Chana Madra" region="Himachal Pradesh">
+        <Serves>4</Serves>
+        <Ingredients>
+            <Ingredient name="Chickpeas" quantity="250" unit="g" description="soaked overnight"/>
+            <Ingredient name="Yogurt" quantity="250" unit="ml"/>
+            <Ingredient name="Ghee" quantity="30" unit="ml"/>
+            <Ingredient name="Cumin seeds" quantity="5" unit="g"/>
+            <Ingredient name="Ginger" quantity="10" unit="g" description="grated"/>
+            <Ingredient name="Turmeric powder" quantity="5" unit="g"/>
+            <Ingredient name="Red chili powder" quantity="5" unit="g"/>
+            <Ingredient name="Garam masala" quantity="2" unit="g"/>
+            <Ingredient name="Salt" quantity="to taste"/>
+            <Ingredient name="Fresh coriander leaves" description="for garnish"/>
+        </Ingredients>
+        <Instructions>
+            <Step number="1">Boil chickpeas until tender and set aside.</Step>
+            <Step number="2">Heat ghee, add cumin seeds and ginger, sauté. Add yogurt, spices, and salt, and cook until thick.</Step>
+            <Step number="3">Add chickpeas, simmer, and garnish with coriander leaves.</Step>
+        </Instructions>
+    </Recipe>
+    <Recipe name="Siddu" region="Himachal Pradesh">
+        <Serves>4</Serves>
+        <Ingredients>
+            <Ingredient name="Whole wheat flour" quantity="500" unit="g"/>
+            <Ingredient name="Yeast" quantity="5" unit="g"/>
+            <Ingredient name="Water" quantity="as needed"/>
+            <Ingredient name="Potatoes" quantity="200" unit="g" description="boiled and mashed"/>
+            <Ingredient name="Spinach" quantity="100" unit="g" description="chopped"/>
+            <Ingredient name="Paneer" quantity="100" unit="g" description="cottage cheese, crumbled"/>
+            <Ingredient name="Onion" quantity="100" unit="g" description="chopped"/>
+            <Ingredient name="Green chilies" quantity="20" unit="g" description="chopped"/>
+            <Ingredient name="Salt" quantity="to taste"/>
+            <Ingredient name="Ghee" description="for greasing"/>
+        </Ingredients>
+        <Instructions>
+            <Step number="1">Mix flour, yeast, and water to form a dough. Let it rise for 2 hours.</Step>
+            <Step number="2">Prepare filling with mashed potatoes, spinach, paneer, onion, green chilies, and salt.</Step>
+            <Step number="3">Divide dough into balls, stuff with filling, and shape into siddu. Steam until cooked through.</Step>
+            <Step number="4">Serve hot with ghee.</Step>
+        </Instructions>
+    </Recipe>
+    <Recipe name="Rava Fried Fish" region="Goa">
+        <Serves>4</Serves>
+        <Ingredients>
+            <Ingredient name="Fish fillets" quantity="500" unit="g"/>
+            <Ingredient name="Semolina" quantity="100" unit="g" description="rava"/>
+            <Ingredient name="Turmeric powder" quantity="5" unit="g"/>
+            <Ingredient name="Red chili powder" quantity="5" unit="g"/>
+            <Ingredient name="Lemon juice" quantity="30" unit="ml"/>
+            <Ingredient name="Salt" quantity="to taste"/>
+            <Ingredient name="Oil" description="for shallow frying"/>
+        </Ingredients>
+        <Instructions>
+            <Step number="1">Marinate fish with turmeric, red chili powder, lemon juice, and salt.</Step>
+            <Step number="2">Coat fish fillets with semolina and shallow fry until golden on both sides.</Step>
+        </Instructions>
+    </Recipe>
+    <Recipe name="Patoleo" region="Goa">
+        <Serves>4</Serves>
+        <Ingredients>
+            <Ingredient name="Rice flour" quantity="250" unit="g"/>
+            <Ingredient name="Grated coconut" quantity="100" unit="g"/>
+            <Ingredient name="Jaggery" quantity="100" unit="g" description="grated"/>
+            <Ingredient name="Turmeric leaves" quantity="8"/>
+            <Ingredient name="Cardamom powder" quantity="2" unit="g"/>
+            <Ingredient name="Salt" quantity="to taste"/>
+        </Ingredients>
+        <Instructions>
+            <Step number="1">Mix rice flour with water and salt to form a dough.</Step>
+            <Step number="2">Mix coconut, jaggery, and cardamom for the filling.</Step>
+            <Step number="3">Spread dough on turmeric leaves, add filling, fold, and steam until cooked.</Step>
+        </Instructions>
+    </Recipe>
+    <Recipe name="Ros Omelette" region="Goa">
+        <Serves>4</Serves>
+        <Ingredients>
+            <Ingredient name="Eggs" quantity="8"/>
+            <Ingredient name="Onion" quantity="100" unit="g" description="chopped"/>
+            <Ingredient name="Tomatoes" quantity="100" unit="g" description="chopped"/>
+            <Ingredient name="Green chilies" quantity="20" unit="g" description="chopped"/>
+            <Ingredient name="Turmeric powder" quantity="5" unit="g"/>
+            <Ingredient name="Red chili powder" quantity="5" unit="g"/>
+            <Ingredient name="Salt" quantity="to taste"/>
+            <Ingredient name="Oil" description="for cooking"/>
+            <Ingredient name="Fresh coriander leaves" description="for garnish"/>
+        </Ingredients>
+        <Instructions>
+            <Step number="1">Beat eggs with onions, tomatoes, green chilies, turmeric, red chili powder, and salt.</Step>
+            <Step number="2">Heat oil, pour egg mixture, and cook until omelette is set. Garnish with coriander leaves.</Step>
+        </Instructions>
+    </Recipe>
+    <Recipe name="Bajra Khichdi" region="Haryana">
+        <Serves>4</Serves>
+        <Ingredients>
+            <Ingredient name="Bajra" quantity="250" unit="g" description="pearl millet"/>
+            <Ingredient name="Moong dal" quantity="100" unit="g" description="split green gram"/>
+            <Ingredient name="Cumin seeds" quantity="5" unit="g"/>
+            <Ingredient name="Ghee" quantity="60" unit="ml"/>
+            <Ingredient name="Turmeric powder" quantity="5" unit="g"/>
+            <Ingredient name="Salt" quantity="to taste"/>
+        </Ingredients>
+        <Instructions>
+            <Step number="1">Cook bajra and moong dal with turmeric and salt until soft.</Step>
+            <Step number="2">Heat ghee, add cumin seeds, pour over khichdi, and mix well.</Step>
+        </Instructions>
+    </Recipe>
+    <Recipe name="Chole Bhature" region="Haryana">
+        <Serves>4</Serves>
+        <Ingredients>
+            <Ingredient name="Chickpeas" quantity="250" unit="g" description="soaked overnight" for="Chole"/>
+            <Ingredient name="Onion" quantity="100" unit="g" description="chopped" for="Chole"/>
+            <Ingredient name="Tomatoes" quantity="200" unit="g" description="chopped" for="Chole"/>
+            <Ingredient name="Ginger-garlic paste" quantity="20" unit="g" for="Chole"/>
+            <Ingredient name="Cumin seeds" quantity="5" unit="g" for="Chole"/>
+            <Ingredient name="Coriander powder" quantity="5" unit="g" for="Chole"/>
+            <Ingredient name="Red chili powder" quantity="5" unit="g" for="Chole"/>
+            <Ingredient name="Garam masala" quantity="2" unit="g" for="Chole"/>
+            <Ingredient name="Salt" quantity="to taste" for="Chole"/>
+            <Ingredient name="Oil" quantity="30" unit="ml" for="Chole"/>
+            <Ingredient name="Fresh coriander leaves" description="for garnish" for="Chole"/>
+
+            <Ingredient name="All-purpose flour" quantity="500" unit="g" description="maida" for="Bhature"/>
+            <Ingredient name="Yogurt" quantity="60" unit="g" for="Bhature"/>
+            <Ingredient name="Baking powder" quantity="5" unit="g" for="Bhature"/>
+            <Ingredient name="Salt" quantity="to taste" for="Bhature"/>
+            <Ingredient name="Water" quantity="as needed" for="Bhature"/>
+            <Ingredient name="Oil" description="for deep frying" for="Bhature"/>
+        </Ingredients>
+        <Instructions>
+            <Step number="1">For chole, boil chickpeas until tender. Heat oil, add cumin seeds, onions, ginger-garlic paste, tomatoes, and spices, cook until thick. Add chickpeas, simmer, and garnish with coriander leaves.</Step>
+            <Step number="2">For bhature, mix flour, yogurt, baking powder, and salt. Add water to form a dough. Roll out and deep fry until puffed and golden.</Step>
+        </Instructions>
+    </Recipe>
+    <Recipe name="Aloo Roti" region="Haryana">
+        <Serves>4</Serves>
+        <Ingredients>
+            <Ingredient name="Whole wheat flour" quantity="500" unit="g"/>
+            <Ingredient name="Potatoes" quantity="500" unit="g" description="boiled and mashed"/>
+            <Ingredient name="Green chilies" quantity="20" unit="g" description="chopped"/>
+            <Ingredient name="Ginger" quantity="10" unit="g" description="grated"/>
+            <Ingredient name="Cumin seeds" quantity="5" unit="g"/>
+            <Ingredient name="Coriander leaves" quantity="50" unit="g" description="chopped"/>
+            <Ingredient name="Salt" quantity="to taste"/>
+            <Ingredient name="Ghee" quantity="60" unit="ml"/>
+        </Ingredients>
+        <Instructions>
+            <Step number="1">Mix flour, salt, and water to form a dough. Divide into balls and set aside.</Step>
+            <Step number="2">Mix mashed potatoes, green chilies, ginger, cumin seeds, coriander leaves, and salt for the filling.</Step>
+            <Step number="3">Roll out dough balls, stuff with potato filling, and seal. Roll again and cook on a hot griddle with ghee until golden on both sides.</Step>
+        </Instructions>
+    </Recipe>
+    <Recipe name="Poha Jalebi" region="Madhya Pradesh">
+        <Serves>4</Serves>
+        <Ingredients>
+            <Ingredient name="Flattened rice" quantity="250" unit="g" description="poha" for="Poha"/>
+            <Ingredient name="Potatoes" quantity="200" unit="g" description="diced" for="Poha"/>
+            <Ingredient name="Onion" quantity="100" unit="g" description="chopped" for="Poha"/>
+            <Ingredient name="Green chilies" quantity="20" unit="g" description="chopped" for="Poha"/>
+            <Ingredient name="Peanuts" quantity="50" unit="g" for="Poha"/>
+            <Ingredient name="Mustard seeds" quantity="5" unit="g" for="Poha"/>
+            <Ingredient name="Turmeric powder" quantity="5" unit="g" for="Poha"/>
+            <Ingredient name="Salt" quantity="to taste" for="Poha"/>
+            <Ingredient name="Oil" quantity="30" unit="ml" for="Poha"/>
+            <Ingredient name="Fresh coriander leaves" description="for garnish" for="Poha"/>
+
+            <Ingredient name="All-purpose flour" quantity="200" unit="g" description="maida" for="Jalebi"/>
+            <Ingredient name="Yogurt" quantity="60" unit="ml" for="Jalebi"/>
+            <Ingredient name="Sugar" quantity="250" unit="g" for="Jalebi"/>
+            <Ingredient name="Water" quantity="125" unit="ml" for="Jalebi"/>
+            <Ingredient name="Saffron strands" quantity="a pinch" for="Jalebi"/>
+            <Ingredient name="Oil" description="for deep frying" for="Jalebi"/>
+        </Ingredients>
+        <Instructions>
+            <Step number="1">For poha, rinse poha in water and drain. Heat oil, add mustard seeds, peanuts, green chilies, and onions, sauté until golden. Add potatoes and turmeric, cook until tender. Add poha, salt, and mix well. Garnish with coriander leaves.</Step>
+            <Step number="2">For jalebi, mix flour, yogurt, and water to form a batter, ferment overnight. Heat oil, pour batter in spirals, and fry until golden. Make a sugar syrup with water, sugar, and saffron, dip jalebis in syrup and serve.</Step>
+        </Instructions>
+    </Recipe>
+    <Recipe name="Bhopali Bafla" region="Madhya Pradesh">
+        <Serves>4</Serves>
+        <Ingredients>
+            <Ingredient name="Whole wheat flour" quantity="500" unit="g"/>
+            <Ingredient name="Ghee" quantity="60" unit="ml"/>
+            <Ingredient name="Baking soda" quantity="5" unit="g"/>
+            <Ingredient name="Salt" quantity="to taste"/>
+            <Ingredient name="Water" quantity="as needed"/>
+            <Ingredient name="Toor dal" quantity="200" unit="g" description="split pigeon peas"/>
+            <Ingredient name="Turmeric powder" quantity="5" unit="g"/>
+            <Ingredient name="Red chili powder" quantity="5" unit="g"/>
+            <Ingredient name="Cumin seeds" quantity="5" unit="g"/>
+            <Ingredient name="Mustard seeds" quantity="5" unit="g"/>
+            <Ingredient name="Asafoetida" quantity="a pinch"/>
+            <Ingredient name="Oil" quantity="30" unit="ml"/>
+            <Ingredient name="Fresh coriander leaves" description="for garnish"/>
+        </Ingredients>
+        <Instructions>
+            <Step number="1">Mix flour, ghee, baking soda, salt, and water to form a dough. Shape into bafla balls.</Step>
+            <Step number="2">Boil bafla balls until cooked, then bake until golden.</Step>
+            <Step number="3">Boil dal with turmeric and salt until cooked. Heat oil, add mustard seeds, cumin seeds, and asafoetida. Add cooked dal to the tempering and simmer for 10 minutes.</Step>
+            <Step number="4">Serve dal with bafla and garnish with fresh coriander leaves.</Step>
+        </Instructions>
+    </Recipe>
+    <Recipe name="Dal Kachori" region="Madhya Pradesh">
+        <Serves>4</Serves>
+        <Ingredients>
+            <Ingredient name="All-purpose flour" quantity="500" unit="g" description="maida"/>
+            <Ingredient name="Moong dal" quantity="100" unit="g" description="split green gram, soaked and ground to a paste"/>
+            <Ingredient name="Fennel seeds" quantity="5" unit="g"/>
+            <Ingredient name="Cumin seeds" quantity="5" unit="g"/>
+            <Ingredient name="Asafoetida" quantity="a pinch"/>
+            <Ingredient name="Salt" quantity="to taste"/>
+            <Ingredient name="Oil" description="for deep frying"/>
+        </Ingredients>
+        <Instructions>
+            <Step number="1">Mix flour, salt, and water to form a dough. Divide into balls and set aside.</Step>
+            <Step number="2">Heat oil, add fennel seeds, cumin seeds, asafoetida, and moong dal paste, cook until dry.</Step>
+            <Step number="3">Stuff dough balls with dal mixture, flatten, and deep fry until golden.</Step>
+        </Instructions>
+    </Recipe>
+    <Recipe name="Akki Roti" region="Karnataka">
+        <Serves>4</Serves>
+        <Ingredients>
+            <Ingredient name="Rice flour" quantity="500" unit="g"/>
+            <Ingredient name="Grated coconut" quantity="50" unit="g"/>
+            <Ingredient name="Onion" quantity="100" unit="g" description="chopped"/>
+            <Ingredient name="Green chilies" quantity="20" unit="g" description="chopped"/>
+            <Ingredient name="Cumin seeds" quantity="5" unit="g"/>
+            <Ingredient name="Coriander leaves" quantity="50" unit="g" description="chopped"/>
+            <Ingredient name="Salt" quantity="to taste"/>
+            <Ingredient name="Water" quantity="as needed"/>
+            <Ingredient name="Oil" description="for cooking"/>
+        </Ingredients>
+        <Instructions>
+            <Step number="1">Mix rice flour, coconut, onion, green chilies, cumin seeds, coriander leaves, and salt. Add water to form a dough.</Step>
+            <Step number="2">Take a small portion of dough, flatten it into a thin disc, and cook on a griddle with oil until golden on both sides.</Step>
+        </Instructions>
+    </Recipe>
+    <Recipe name="Neer Dosa" region="Karnataka">
+        <Serves>4</Serves>
+        <Ingredients>
+            <Ingredient name="Rice" quantity="250" unit="g" description="soaked"/>
+            <Ingredient name="Grated coconut" quantity="50" unit="g"/>
+            <Ingredient name="Salt" quantity="to taste"/>
+            <Ingredient name="Water" quantity="as needed"/>
+            <Ingredient name="Oil" description="for cooking"/>
+        </Ingredients>
+        <Instructions>
+            <Step number="1">Grind rice with coconut and water to a smooth batter. Add salt and more water to make it thin.</Step>
+            <Step number="2">Pour batter onto a hot griddle, spread, and cook until dosa is cooked. Serve hot with chutney.</Step>
+        </Instructions>
+    </Recipe>
+    <Recipe name="Ragi Mudde" region="Karnataka">
+        <Serves>4</Serves>
+        <Ingredients>
+            <Ingredient name="Ragi flour" quantity="250" unit="g" description="finger millet flour"/>
+            <Ingredient name="Water" quantity="750" unit="ml"/>
+            <Ingredient name="Salt" quantity="to taste"/>
+        </Ingredients>
+        <Instructions>
+            <Step number="1">Boil water with salt, add ragi flour, and stir continuously to avoid lumps.</Step>
+            <Step number="2">Cook until mixture thickens and forms a smooth dough.</Step>
+            <Step number="3">Shape into balls and serve hot with sambar or chutney.</Step>
+        </Instructions>
+    </Recipe>
+    <Recipe name="Faraa" region="Chhattisgarh">
+        <Serves>4</Serves>
+        <Ingredients>
+            <Ingredient name="Rice flour" quantity="500" unit="g"/>
+            <Ingredient name="Grated coconut" quantity="50" unit="g"/>
+            <Ingredient name="Green chilies" quantity="20" unit="g" description="chopped"/>
+            <Ingredient name="Cumin seeds" quantity="5" unit="g"/>
+            <Ingredient name="Salt" quantity="to taste"/>
+            <Ingredient name="Water" quantity="as needed"/>
+            <Ingredient name="Oil" description="for greasing"/>
+        </Ingredients>
+        <Instructions>
+            <Step number="1">Mix rice flour, coconut, green chilies, cumin seeds, salt, and water to form a dough.</Step>
+            <Step number="2">Shape into small dumplings, steam until cooked, and serve with chutney.</Step>
+        </Instructions>
+    </Recipe>
+    <Recipe name="Chana Samosa" region="Chhattisgarh">
+        <Serves>4</Serves>
+        <Ingredients>
+            <Ingredient name="Chickpeas" quantity="250" unit="g" description="soaked overnight"/>
+            <Ingredient name="Onion" quantity="100" unit="g" description="chopped"/>
+            <Ingredient name="Green chilies" quantity="20" unit="g" description="chopped"/>
+            <Ingredient name="Ginger" quantity="10" unit="g" description="grated"/>
+            <Ingredient name="Cumin seeds" quantity="5" unit="g"/>
+            <Ingredient name="Turmeric powder" quantity="5" unit="g"/>
+            <Ingredient name="Red chili powder" quantity="5" unit="g"/>
+            <Ingredient name="Coriander powder" quantity="5" unit="g"/>
+            <Ingredient name="Garam masala" quantity="2" unit="g"/>
+            <Ingredient name="Lemon juice" quantity="15" unit="ml"/>
+            <Ingredient name="Salt" quantity="to taste"/>
+            <Ingredient name="Oil" quantity="30" unit="ml"/>
+            <Ingredient name="Fresh coriander leaves" description="for garnish"/>
+        </Ingredients>
+        <Instructions>
+            <Step number="1">Boil chickpeas until tender and set aside.</Step>
+            <Step number="2">Heat oil, add cumin seeds, onions, green chilies, and ginger, sauté until golden. Add chickpeas, spices, and salt, mix well.</Step>
+            <Step number="3">Cook for 5 minutes, add lemon juice, and garnish with coriander leaves.</Step>
+            <Step number="4">Serve as a filling in samosas or as a side dish.</Step>
+        </Instructions>
+    </Recipe>
+    <Recipe name="Bafauri" region="Chhattisgarh">
+        <Serves>4</Serves>
+        <Ingredients>
+            <Ingredient name="Gram flour" quantity="250" unit="g" description="besan"/>
+            <Ingredient name="Onion" quantity="100" unit="g" description="chopped"/>
+            <Ingredient name="Green chilies" quantity="20" unit="g" description="chopped"/>
+            <Ingredient name="Garlic" quantity="20" unit="g" description="minced"/>
+            <Ingredient name="Cumin seeds" quantity="5" unit="g"/>
+            <Ingredient name="Turmeric powder" quantity="5" unit="g"/>
+            <Ingredient name="Salt" quantity="to taste"/>
+            <Ingredient name="Oil" description="for greasing"/>
+            <Ingredient name="Fresh coriander leaves" description="for garnish"/>
+        </Ingredients>
+        <Instructions>
+            <Step number="1">Mix besan with onions, green chilies, garlic, cumin seeds, turmeric, and salt.</Step>
+            <Step number="2">Add water to form a thick batter. Grease steaming trays, pour batter, and steam until cooked through.</Step>
+            <Step number="3">Garnish with fresh coriander leaves and serve as a snack.</Step>
+        </Instructions>
+    </Recipe>
+    <Recipe name="Mosdeng Serma" region="Tripura">
+        <Serves>4</Serves>
+        <Ingredients>
+            <Ingredient name="Tomato" quantity="200" unit="g" description="chopped"/>
+            <Ingredient name="Onion" quantity="100" unit="g" description="chopped"/>
+            <Ingredient name="Green chilies" quantity="20" unit="g" description="chopped"/>
+            <Ingredient name="Mustard oil" quantity="30" unit="ml"/>
+            <Ingredient name="Salt" quantity="to taste"/>
+            <Ingredient name="Fresh coriander leaves" description="for garnish"/>
+        </Ingredients>
+        <Instructions>
+            <Step number="1">Roast tomatoes until charred, peel and mash.</Step>
+            <Step number="2">Mix mashed tomatoes with onions, green chilies, mustard oil, and salt.</Step>
+            <Step number="3">Garnish with coriander leaves and serve as a side dish.</Step>
+        </Instructions>
+    </Recipe>
+    <Recipe name="Berma" region="Tripura">
+        <Serves>4</Serves>
+        <Ingredients>
+            <Ingredient name="Bamboo shoots" quantity="250" unit="g" description="sliced"/>
+            <Ingredient name="Pork" quantity="250" unit="g" description="chopped"/>
+            <Ingredient name="Onion" quantity="100" unit="g" description="chopped"/>
+            <Ingredient name="Green chilies" quantity="20" unit="g" description="chopped"/>
+            <Ingredient name="Garlic" quantity="20" unit="g" description="minced"/>
+            <Ingredient name="Ginger" quantity="10" unit="g" description="grated"/>
+            <Ingredient name="Turmeric powder" quantity="5" unit="g"/>
+            <Ingredient name="Salt" quantity="to taste"/>
+            <Ingredient name="Mustard oil" quantity="30" unit="ml"/>
+        </Ingredients>
+        <Instructions>
+            <Step number="1">Heat mustard oil, add onions, garlic, ginger, and green chilies, sauté until golden.</Step>
+            <Step number="2">Add pork, turmeric, and salt, cook until browned.</Step>
+            <Step number="3">Add bamboo shoots, cover, and cook until tender.</Step>
+        </Instructions>
+    </Recipe>
+    <Recipe name="Muya Bai Wahan" region="Tripura">
+        <Serves>4</Serves>
+        <Ingredients>
+            <Ingredient name="Bamboo shoots" quantity="250" unit="g" description="sliced"/>
+            <Ingredient name="Mushrooms" quantity="250" unit="g" description="sliced"/>
+            <Ingredient name="Onion" quantity="100" unit="g" description="chopped"/>
+            <Ingredient name="Green chilies" quantity="20" unit="g" description="chopped"/>
+            <Ingredient name="Garlic" quantity="20" unit="g" description="minced"/>
+            <Ingredient name="Ginger" quantity="10" unit="g" description="grated"/>
+            <Ingredient name="Mustard seeds" quantity="5" unit="g"/>
+            <Ingredient name="Salt" quantity="to taste"/>
+            <Ingredient name="Mustard oil" quantity="30" unit="ml"/>
+        </Ingredients>
+        <Instructions>
+            <Step number="1">Heat mustard oil, add mustard seeds, and let them splutter.</Step>
+            <Step number="2">Add onions, garlic, ginger, and green chilies, sauté until golden.</Step>
+            <Step number="3">Add bamboo shoots, mushrooms, and salt, cover, and cook until tender.</Step>
+        </Instructions>
+    </Recipe>
+    <Recipe name="Khar" region="Assam">
+        <Serves>4</Serves>
+        <Ingredients>
+            <Ingredient name="Raw papaya" quantity="250" unit="g" description="chopped"/>
+            <Ingredient name="Black lentils" quantity="50" unit="g" description="khar"/>
+            <Ingredient name="Mustard oil" quantity="30" unit="ml"/>
+            <Ingredient name="Turmeric powder" quantity="5" unit="g"/>
+            <Ingredient name="Salt" quantity="to taste"/>
+            <Ingredient name="Banana leaf ash water" quantity="50" unit="ml" description="alternatively, use baking soda"/>
+        </Ingredients>
+        <Instructions>
+            <Step number="1">Cook papaya with turmeric and salt until tender.</Step>
+            <Step number="2">Add lentils and banana leaf ash water, simmer until cooked.</Step>
+            <Step number="3">Drizzle with mustard oil before serving.</Step>
+        </Instructions>
+    </Recipe>
+    <Recipe name="Pitha" region="Assam">
+        <Serves>4</Serves>
+        <Ingredients>
+            <Ingredient name="Rice flour" quantity="250" unit="g"/>
+            <Ingredient name="Grated coconut" quantity="100" unit="g"/>
+            <Ingredient name="Jaggery" quantity="100" unit="g" description="grated"/>
+            <Ingredient name="Cardamom powder" quantity="2" unit="g"/>
+            <Ingredient name="Salt" quantity="to taste"/>
+            <Ingredient name="Banana leaves" description="for wrapping"/>
+        </Ingredients>
+        <Instructions>
+            <Step number="1">Mix rice flour with salt and water to form a dough.</Step>
+            <Step number="2">Mix coconut, jaggery, and cardamom for the filling.</Step>
+            <Step number="3">Spread dough on banana leaves, add filling, fold, and steam until cooked.</Step>
+        </Instructions>
+    </Recipe>
+    <Recipe name="Poita Bhat" region="Assam">
+        <Serves>4</Serves>
+        <Ingredients>
+            <Ingredient name="Cooked rice" quantity="500" unit="g"/>
+            <Ingredient name="Water" quantity="1" unit="liter"/>
+            <Ingredient name="Salt" quantity="to taste"/>
+            <Ingredient name="Green chilies" quantity="20" unit="g" description="chopped"/>
+            <Ingredient name="Onion" quantity="100" unit="g" description="chopped"/>
+            <Ingredient name="Mustard oil" quantity="30" unit="ml"/>
+        </Ingredients>
+        <Instructions>
+            <Step number="1">Soak cooked rice in water overnight.</Step>
+            <Step number="2">Drain water, mix rice with salt, green chilies, onions, and mustard oil.</Step>
+            <Step number="3">Serve chilled as a breakfast dish.</Step>
+        </Instructions>
+    </Recipe>
+</Recipes>
